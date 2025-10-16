@@ -1,2 +1,2 @@
-# aleksandr-skidanov-qa.githab.io
+# aleksandr-skidanov-qa.github.io
 Сайт визитка HTML, CSS
